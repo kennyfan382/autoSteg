@@ -2,10 +2,6 @@
 #Once the image and the text file have been set, this script will automate the commands for steganography
 #The user will be notified at the end whether the process worked or not
 
-#TODO
-#Make github license before posting
-#Make demo video
-#Make a windows variant (then record a video for that and link it in the whole testing video)
 AS(){
     chmod +x AutomateSteganography.sh
     clear
